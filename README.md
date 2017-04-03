@@ -1,0 +1,1 @@
+Jupyter notebooks contain replication code for project analyzing school review topics and notebook used to give summary of project for my blog. A writeup of the project can be found [here](https://sites.google.com/site/cs109greatschools/?invite=CNHf3egM). Replication data is unfortunately not provided because I do not own it.
